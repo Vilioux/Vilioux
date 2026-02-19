@@ -3,8 +3,25 @@
 ## Hi There, I'm Vilioux! 👋
 
 - 🎓 I’m currently Studying at University of Semarang
-- 🔭 Aaaanddd i’m currently learning Data Analyst 
-- 📫 This is how to reach me: @yogadwpm on instagram
+- 🔭 Aaaanddd i’m currently learning Data Analyst
+
+## Skills
+
+- 📊 Analytics
+<img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+
+- 💻 Web Developer
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+
+![Vilioux GitHub stats](https://github-readme-stats.vercel.app/api?username=vilioux)
+
+## Connect with Me
+![https://www.linkedin.com/in/yoga-dwi-pamungkas-b391a9278/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://instagram.com/yogadwpm](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.tiktok.com/@holayoga](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white
+) ![https://x.com/Vilioux](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+
+
+
+
 <!--
 **Vilioux/Vilioux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
